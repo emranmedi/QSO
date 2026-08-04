@@ -1,0 +1,1 @@
+These notebooks used a locally re-implemented CEC 2017 suite, with shift vectors and rotation matrices generated rather than taken from the competition data. They were superseded by runs using the official opfunu implementation, and no result in the manuscript derives from them. 05_Engineering.ipynb was superseded by 07_engineering_rerun.ipynb, which retains all solution vectors
